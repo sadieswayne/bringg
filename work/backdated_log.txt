@@ -5,3 +5,4 @@ Commit 4 - Improved performance - 2023-09-10T04:51:09
 Commit 5 - Refactored logic - 2023-04-01T19:41:19
 Commit 6 - Bug fix in parser - 2023-11-19T21:21:26
 Commit 7 - Added new feature - 2023-02-20T11:33:49
+Commit 8 - Updated dependencies - 2023-07-17T19:04:18
